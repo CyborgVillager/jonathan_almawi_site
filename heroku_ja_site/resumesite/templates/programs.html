@@ -1,0 +1,255 @@
+{%  load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<link rel = "shortcut icon" type="image/png" href ="../static/images/logo/jonathanaieye.png" >
+
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+    <title>JA - Programs</title>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src=" https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script>
+    <script src=" https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+            integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+            crossorigin="anonymous"></script>
+    <!--Script to allow discord icon to pop up-->
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{%  static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+
+
+    <!-- Theme CSS -->
+    <link href="{%  static 'css/style2.min.css' %}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="{% static 'vendor/font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src=" https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src=" https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" class="index">
+
+<div id="skipnav"><a href="#maincontent">Skip to main content</a></div>
+
+    <!-- Navigation -->
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top navbar-custom">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1">
+
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="/about">Jonathan Almawi</a>
+            </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/about">About</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="https://www.linkedin.com/in/jonathan-almawi-478a6b12b/detail/recent-activity/posts/">
+                            Articles</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/programs">Programs</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/contact">Contact</a>
+                    </li>
+                    <!--Hidden
+                    <li class="page-scroll">
+                        <a href="/python_apps">Python Apps</a>
+                    </li>
+                    -->
+
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+<br>
+<br>
+<br>
+<div class="container">
+       <div class="row">
+                <div class="col-lg-12 text-center">
+                    <br>
+                    <h2>Welcome to PEP!</h2>
+                    <h2>Programs, Experiments, & Projects</h2>
+                    <p>This page contains a couple of programs such as 'Main Shop', 'Kivy Calculator', and my github link
+                        that holds the rest of my respo. This site will soon be revamp to mostly use
+                        <a target="_blank" href="http://mezzanine.jupo.org/docs/index.html">Mezzanine</a>. Since I'm in the phase
+                        planning on making a CMS format & make future projects become more accessible,
+                    to those that would like to have an .exe program instead of having to download x,y,z and do 1,2,3,4 steps
+                    to get a file/program to open.</p>
+
+                </div>
+            </div>
+</div>
+
+    <!-- Header -->
+    <header>
+        <!-- First Page of site w/face as logo-->
+
+                    <img class="img-responsive" src="{%  static 'images/downloads/programs_category_background.JPG' %}"
+                         alt="" height="550" width="604" >
+    </header>
+
+    <!-- Various Experiments,Programs, and Projects Grid Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                    <h4>Main Shop</h4>
+                      <hr class="star-secondary">
+                    <p>An executable program, that holds books/dvd that a user can 'buy', and checkout. </p>
+
+                    <a href='https://github.com/CyborgVillager/jonathan_almawi_portfolio_2020/blob/master/resumesite/downloads/Main_Shop.zip'
+                       target="_blank" class="portfolio-link" data-toggle="modal" >
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+
+                            <img src="{% static 'images/downloads/main_shop.JPG' %}" target="_blank" class="img-responsive"
+                                 alt="Main Shop Book/DvD" width="300" height="520" >  </a>
+
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <h4>Volunteer Listing - Bubble.io</h4>
+                      <hr class="star-secondary">
+                     <p>Here's my volunteer listing web application using <a target="_blank" href="https://ja-volunteer-listing.bubbleapps.io/version-test?debug_mode=true">Bubble.io</a> </p>
+                    <a href="https://ja-volunteer-listing.bubbleapps.io/version-test?debug_mode=true" target="_blank" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <center><img src="{% static 'images/portfolio/bubbleio.png' %}" class="img-responsive" alt="Bubble.io Volunteer Listing" width="300" height="220">
+                        </center>
+                    </a>
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <h4>Kivy Calculator</h4>
+                    <hr class="star-secondary">
+                     <p>A mini experiment, this was used to further learn about Kivy, and help aid my class to learn about it
+                         as well. </p>
+
+                    <a href="https://github.com/CyborgVillager/UpdatedCacl" target="_blank" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <center><img src="{% static 'images/downloads/calculator.JPG' %}" class="img-responsive" alt="Kivy Calculator"  ></center>
+                    </a>
+                </div>
+
+                <div class="col-sm-4 portfolio-item">
+                    <h4>Many Other Programs & Experiments</h4>
+                      <hr class="star-secondary">
+                     <p>Contains the rest of my respo,  that are used to further increase my knowledge about python,html,
+                         and other essential coding structure used to make ideas & thoughts into a reality.</p>
+                    <a href="https://github.com/CyborgVillager" target="_blank" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <center><img src="{% static 'images/portfolio/github.jpg' %}" class="img-responsive" alt="Github Profile" width="300" height="220">
+                        </center>
+                    </a>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+       <!-- Footer -->
+    <footer class="text-center">
+
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>Location</h3>
+                        <p>Chicago Illinois,
+                            <br>United States</p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3></h3>
+                        <p></p>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Social Networks</h3>
+                        <ul class="list-inline">
+                            <li>
+                                <a href="https://discord.gg/wUCW5tV" target="_blank"
+                                   class="btn-social btn-outline"><span class="sr-only">Discord Server</span><i class="fab fa-discord" style='font-size:24px'></i></a>
+                            </li>
+                            <li>
+                                <a href="https://theviiiager.wordpress.com/author/theviiiager/" class="btn-social btn-outline" target="_blank">
+                                    <span class="sr-only">WordPress</span><i class="fa fa-fw fa-wordpress"
+                                                                             style='font-size:24px'></i></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/CyborgVillager" class="btn-social btn-outline" target="_blank"><span class="sr-only">GitHub</span><i class="fa fa-fw fa-github"
+                                                                                                                                                                 style='font-size:24px'></i></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; Jonathan Almawi - JA Portfolio 2020
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+
+</body>
+
+
+</html>
+

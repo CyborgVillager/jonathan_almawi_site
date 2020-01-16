@@ -1,0 +1,70 @@
+                  Key Legend:
+                -- = current version
+                -wor: = working on this ver
+                 <-x_x-> = bug
+                 |x_x| = bug fixed
+                 <-o_o-> = design issue
+                 |o_o| = design issue fixed
+
+
+                     ~Updating to repo~
+               | --------------------------- |
+               | v# : Short Version Title    |
+               | Description: v# description |
+               | --------------------------- |
+
+v0 Django Basic Setup: Created new django project for portfolio, basic information has been completed to run
+                            the program
+v1 Updated Django Info: Re-edit the files, new info has been inserted
+v2 Polls Added: Polls has been added, will finish the basics then work on the in-depth information
+                    regarding to my profile info. Will be using Polls to test other features for up-coming
+                    projects
+v3 Migrated information for Database: python manage.py migrate -> to update the database
+
+v4 Migrations for Polls:  python manage.py makemigrations polls &  python manage.py sqlmigrate polls 0001 were i
+                        nitated after updating  polls/models.py and including polls.apps.PollsConfig onto
+                        jonathan_almawi_portfolio_2020/settings
+
+v5 Admin Creation: created an admin/made some modifications
+v6 Modified some information: Used previous made django code to modifi this respo
+
+v7 Revamp With Improvement: Added Info in, site is able to be seen with custom .css, completed making a demo .py into an .exe. Just need
+
+        to work on allowing it to be downloaded with no errors. Besides that will be working on the about page, and contact
+        form. to allow messages to be sent via email or other means of contacting.
+ ----------------------------    ----------------------------   ------------------------- ------------------------------
+v8 Program Page Info: Main_Shop program was used for a final project regarding to my fall semester class. The main objectives
+    were to make a book or dvd store that the user will be able to see, edit
+    delete, and checkout with taxes.
+
+    The Kivy Calculator was used as a test-run on kivy/see how it operates. I also used this learning experience to help
+    aid my professor in teaching the class about kivy, and making an temporarily app for them to play with. .
+
+    The github logo will have the rest of my respo, of my other programs, experiments, and mini projects. Feel free to check
+    those out.
+
+    This site is one of my main 3 projects that im working on.
+    Site -> modify it to mostly use Mezzanine
+    Chat Program -> Allow users to chat/send information to each other
+    A.i -> work on improving the intelligence. Will begin this process about A.i on Feb/5/2020
+----------------------------    ----------------------------   ------------------------- ------------------------------
+v9 Projects Page Complete: Projects Category Page has been completed, will work on About Category Page
+v10 About Page Modified: About Page Modified, will work on description for the page
+
+v11 Improved Footer: Improved Footer description, for all pages
+        Edit: Added Location
+
+v12 Updated About Page & Other .ETC information: Finished about page, and updated the rest of the other pages
+                                                    in regarding to /about
+                                                    Edit: v12.5 Contact Page
+
+v13 Contact Page: Contact Page completed/ fixed contact page  & about design when a user clicks on a link
+                    v13.5 Edit Version_Info.txt: added barriers in version_info.txt to help aid in visual guidance
+v14 <-x_x->: Reset recent Git changes: reset recent git changes, couple of errors occured when pushing to heroku, will work
+                                    on this issue
+v15 <-x_x-> Updated the dir: Updated the dir, will use this to make a
+heroku respo, and owrk at it from there
+
+--v16 <-x_x-> Heroku Respo: This respo will be used for the online version
+v17:
+v18:
