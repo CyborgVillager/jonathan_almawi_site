@@ -66,5 +66,5 @@ v15 <-x_x-> Updated the dir: Updated the dir, will use this to make a
 heroku respo, and owrk at it from there
 
 --v16 <-x_x-> Heroku Respo: This respo will be used for the online version
-v17:
+v17: https://github.com/pkrefta/django-on-heroku
 v18:
