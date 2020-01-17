@@ -100,6 +100,13 @@ v21 |x_x| Solution Aquired: Will use my previous code and use that for this temp
                             http://mezzanine.jupo.org/
 
 
+--v22 README added & Requirements Updated: Created a README.txt explaining the main objective of this respo, updated the
+                                          requirments. Will be leaving the old code on this respo as well, just in case
+                                           anybody would like to see the difference between the updated code
+                                           and the old code with out having to switch tabs and what not. Besides putting
+                                           them on a different screen.
+
+
 
 ================
 RESOURCES/SUPPORT CREDITS
