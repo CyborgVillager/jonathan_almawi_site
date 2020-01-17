@@ -106,8 +106,10 @@ v22 README added & Requirements Updated: Created a README.txt explaining the mai
                                            and the old code with out having to switch tabs and what not. Besides putting
                                            them on a different screen.
 
---v23 Updated Contact Page: Updated contact page to include direct contact option, if a user would like to send a message
+v23 Updated Contact Page: Updated contact page to include direct contact option, if a user would like to send a message
                             directly to me, with their info at hand.
+
+--v24 Updated Personal Info: Updated personal info on about page/main objectives
 
 
 ================
