@@ -60,11 +60,60 @@ v12 Updated About Page & Other .ETC information: Finished about page, and update
 
 v13 Contact Page: Contact Page completed/ fixed contact page  & about design when a user clicks on a link
                     v13.5 Edit Version_Info.txt: added barriers in version_info.txt to help aid in visual guidance
+
+v13.5 Update Info: This is a continuation of Respo jonathan_almawi_portfolio_2020 ->
+                    https://github.com/CyborgVillager/jonathan_almawi_portfolio_2020
+
 v14 <-x_x->: Reset recent Git changes: reset recent git changes, couple of errors occured when pushing to heroku, will work
                                     on this issue
 v15 <-x_x-> Updated the dir: Updated the dir, will use this to make a
 heroku respo, and owrk at it from there
 
---v16 <-x_x-> Heroku Respo: This respo will be used for the online version
-v17: https://github.com/pkrefta/django-on-heroku
-v18:
+v16 <-x_x-> Heroku Respo: This respo will be used for the online version
+
+v17 <-x_x-> Heroku errors: Heroku H10 & H14 Errors: Finding a solution
+
+v18 <-x_x-> Django & Gunicorn Issues: Other issues with deploying the site onto Heroku, finding solutions
+
+v19 <-x_x-> Updated Code info to include packages/procfile: Solution aquired, now just need to modify it to accommodate
+                                                                my custom static code
+
+v20 <-x_x-> Issues Still persit with H10 & H14 for Heroku: Issues still active, finding alternate solutions
+
+v21 |x_x| Solution Aquired: Will use my previous code and use that for this temporaily site. Since this site is static
+                            not much is needed to fix the solutions. Will be using Mezzanine & custom server
+                            for future website projects.
+
+                            This respo is not compatible with Heroku at the moment, but its able to be activated
+                            via the terminal of pycharm, feel free to test it out
+
+                            Keyphrase on the terminal -> python manage.py runserver
+
+
+
+
+================
+RESOURCES/SUPPORT CREDITS
+================
+-Deploying Python Applications with Gunicorn-
+https://devcenter.heroku.com/articles/python-gunicorn
+
+-Forked CyborgVillager/c9_flask_portfolio_app-
+https://github.com/CyborgVillager/c9_flask_portfolio_app
+
+-How to use Django with Gunicorn-
+https://docs.djangoproject.com/en/3.0/howto/deployment/wsgi/gunicorn/
+
+-Heroku Error Codes (Solutions to H10 & H14)-
+https://devcenter.heroku.com/articles/error-codes
+
+-Causes of Heroku H10-App Crashed Error And How To Solve Them-
+https://dev.to/lawrence_chinedu/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl
+    heroku logs --tail
+
+-First Heroku deploy failed `error code=H10`-
+https://stackoverflow.com/questions/14322989/first-heroku-deploy-failed-error-code-h10
+    heroku logs --tail
+
+-Heroku + gunicorn not working (bash: gunicorn: command not found )-
+https://stackoverflow.com/questions/33021874/heroku-gunicorn-not-working-bash-gunicorn-command-not-found
