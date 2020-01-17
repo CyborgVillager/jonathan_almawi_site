@@ -88,7 +88,16 @@ v21 |x_x| Solution Aquired: Will use my previous code and use that for this temp
                             via the terminal of pycharm, feel free to test it out
 
                             Keyphrase on the terminal -> python manage.py runserver
+                  v21.5 Edit:
+                            Temp Static site active : https://jonathan-almawi.herokuapp.com/
 
+                            Temporialy use of a previous code -> https://github.com/CyborgVillager/c9_flask_portfolio_app
+                            using flask. Good experience, so far. Thanks to seeing both the difference between
+                            flask & Mezzanine. I can whole-heartly say that Mezzanine is a great choice if you want
+                            more options to work with, flask is good starting point, but if you want to dive deep
+                            and learn the in's and out then Mezzanine is the way to go
+
+                            http://mezzanine.jupo.org/
 
 
 
