@@ -109,7 +109,9 @@ v22 README added & Requirements Updated: Created a README.txt explaining the mai
 v23 Updated Contact Page: Updated contact page to include direct contact option, if a user would like to send a message
                             directly to me, with their info at hand.
 
---v24 Updated Personal Info: Updated personal info on about page/main objectives
+v24 Updated Personal Info: Updated personal info on about page/main objectives
+
+--v25 Fixed Spelling: Fixed Spelling
 
 
 ================
@@ -137,3 +139,15 @@ https://stackoverflow.com/questions/14322989/first-heroku-deploy-failed-error-co
 
 -Heroku + gunicorn not working (bash: gunicorn: command not found )-
 https://stackoverflow.com/questions/33021874/heroku-gunicorn-not-working-bash-gunicorn-command-not-found
+
+
+Authors:
+*********   *********   *********   *********   *********   *********   *********   *********
+  ____      _                   __     ___ _ _
+  / ____   _| |__   ___  _ __ __ \ \   / (_| | | __ _  __ _  ___ _ __
+ | |  | | | | '_ \ / _ \| '__/ _` \ \ / /| | | |/ _` |/ _` |/ _ | '__|
+ | |__| |_| | |_) | (_) | | | (_| |\ V / | | | | (_| | (_| |  __| |
+  \____\__, |_.__/ \___/|_|  \__, | \_/  |_|_|_|\__,_|\__, |\___|_|
+       |___/                 |___/                    |___/
+
+*********   *********   *********   *********   *********   *********   *********   *********
