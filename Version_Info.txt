@@ -113,7 +113,9 @@ v24 Updated Personal Info: Updated personal info on about page/main objectives
 
 v25 Fixed Spelling: Fixed Spelling
 
---v26 Minor Update: etc on images on another private respo
+v26 Minor Update: etc on images on another private respo
+
+--v27 Minor Img Change: Updating Img on Heroku
 
 
 ================
