@@ -111,7 +111,9 @@ v23 Updated Contact Page: Updated contact page to include direct contact option,
 
 v24 Updated Personal Info: Updated personal info on about page/main objectives
 
---v25 Fixed Spelling: Fixed Spelling
+v25 Fixed Spelling: Fixed Spelling
+
+--v26 Minor Update: etc on images on another private respo
 
 
 ================
